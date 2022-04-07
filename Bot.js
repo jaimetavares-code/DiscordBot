@@ -68,5 +68,5 @@ async function gotMessage(msg) {
     msg.channel.send(json.results[index].url);
     msg.channel.send("GIF from Tenor: " + keywords);
   }
-// }
+
 }
