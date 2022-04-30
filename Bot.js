@@ -39,9 +39,9 @@ function readyDiscord() {
 }
 
 const replies = [
-  '🚂🌈💖',
+  '🧚🌈💖',
   'I love you too!',
-  "Bitch, you’re my soulmate",
+  'Bitch, you are my soulmate',
   'Bitch you better be joking'
 ]
 
