@@ -40,9 +40,9 @@ function readyDiscord() {
 
 const replies = [
   '🚂🌈💖',
-  'Choo choo!',
-  'Ding! 🛎',
-  'Never forget this dot!'
+  'I love you too!',
+  "Bitch, you’re my soulmate",
+  'Bitch you better be joking'
 ]
 
 client.on('message', gotMessage);
@@ -53,7 +53,7 @@ async function gotMessage(msg) {
   let tokens = msg.cleanContent.split(" ");
   const fetch = (await import('node-fetch')).default
 
-  if (tokens[0] === "!choochoo") {
+  if (tokens[0] === "!loveYou") {
     const index = Math.floor(Math.random() * replies.length);
     msg.channel.send(replies[index]);
   } else if (tokens[0] == "!gif") {
