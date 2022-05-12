@@ -14,6 +14,8 @@ No, as I followed a very good tutorial, and the code is extremely similar to the
 <h1>Do I intend on making any money with this bot?</h1>
 No, I'm not accepting any kind of donations or payment, as the original code is not mine, and this was really just for a friend. I'm only doing this, to archive the code, in case I need it in the future.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Here's the bot in action. I made a GIF, in case you wanted to check it before using it!
 ![2022-05-12 11-18-19](https://user-images.githubusercontent.com/55595800/168049209-da167f3a-3ea5-43b3-b5a8-8d6c85dd6b8c.gif)
