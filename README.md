@@ -1,7 +1,7 @@
 # Maddy Perez - Discord Bot
 
 <h1>Why did I create this discord bot?</h1>
-The reason I created this bot, was so a friend could use gifs on her discord server! She was very devastated because she wanted a character from a show to display gifs from said show and the characters. With that in mind, I looked up some tutorials, mashed code together, and the bot was created!
+The reason I created this bot, was so a friend could use gifs on her discord server! She was upset because she wanted a character from a show to display gifs from said show and the characters. With that in mind, I looked up some tutorials, mashed code together, and the bot was created!
 
 
 <h1>Can I invite the bot to my server?</h1>
