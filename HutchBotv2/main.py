@@ -75,4 +75,4 @@ async def beep(ctx):
     await ctx.send('boop')
 
 # token
-bot.run('MTE3NzI2NDIyMjQ1MTgwNjMxOQ.GZUXlX.hHq3dazKmX0wTcTyW158PfkkMSM5oo4qizHuB8')
+bot.run('BOT_TOKEN')
